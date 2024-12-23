@@ -1,2 +1,3 @@
-Created in git hub under feature-1 branch.
+Modified in feature-2 Created in git hub under feature-1 branch.
 This file was modified locally.
+This line was added in feature-2 branch.
